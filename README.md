@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of piwind/flarum-diff.** Not for installation: use [Packagist](https://packagist.org/packages/piwind/flarum-diff) or the [upstream repository](https://github.com/piwind/flarum-diff).
 
-**0** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/piwind-flarum-diff/tree/archive/v1.2.1) · License: `MIT` · Flarum: `^1.2.0`
+**2** versions archived · Latest: [`v1.2.1`](https://github.com/flarchive/piwind-flarum-diff/tree/archive/v1.2.1) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.2.0` | 2025-05-27 | `^1.2.0` | [Browse](https://github.com/flarchive/piwind-flarum-diff/tree/archive/v1.2.0) |
+| `v1.2.1` | 2025-05-27 | `^1.2.0` | [Browse](https://github.com/flarchive/piwind-flarum-diff/tree/archive/v1.2.1) |
 
 Catalog entry: [packages/piwind-flarum-diff.json](https://github.com/flarchive/archive-index/blob/main/packages/piwind-flarum-diff.json)
 
